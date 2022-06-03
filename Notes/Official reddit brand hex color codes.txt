@@ -1,0 +1,34 @@
+reddit official brand
+name	hex	rgba	colorname
+reddit orange	#FF5700	RGBA(255, 86, 0, 1)	International Orange
+orangered		#FF4500	RGBA(255, 67, 0, 1)	Orange Red
+upvote		#FF8b60	RGBA(255, 139, 90, 1)	Crusta
+neutral		#C6C6C6	RGBA(198, 198, 198, 1)	Pumice
+downvote		#9494FF	RGBA(147, 145, 255, 1)	Portage
+light bg		#EFF7FF	RGBA(239, 247, 255, 1)	Alice Blue
+header		#CEE3F8	RGBA(205, 227, 249, 1)	Hawkes Blue
+ui text		#336699	RGBA(48, 101, 155, 1)	Lapis Lazuli
+
+
+thematic color set for mobile
+found on the bottom of /about/edit/
+
+name	hex	rgba	colorname
+red		#ED001C	RGBA(237, 0, 28, 1)	Cadmium Red
+orangered	#FF4300	RGBA(255, 67, 0, 1)	Orange Red
+orange	#FF8700	RGBA(255, 135, 0, 1)	Dark Orange
+mango		#FFB100	RGBA(255, 177, 0, 1)	UCLA Gold
+lime		#92E234	RGBA(146, 226, 52, 1)	Atlantis
+green		#3BCB56	RGBA(61, 211, 90, 1)	UFO Green
+mint		#00D4BB	RGBA(0, 212, 187, 1)	Robin Egg Blue
+teal		#13B89F	RGBA(19, 184, 159, 1)	Light Sea Green
+blue		#149EF0	RGBA(20, 158, 240, 1)	Dodger Blue
+alien blue	#0077D6	RGBA(0, 119, 214, 1)	True Blue
+pink		#FF63AC	RGBA(255, 99, 172, 1)	Magenta
+purple	#7F4FC4	RGBA(127, 79, 196, 1)	Fuchsia Blue
+gold		#DEBE22	RGBA(222, 190, 34, 1)	Sunflower
+brown		#A16A3E	RGBA(161, 106, 62, 1)	Cape Palliser
+pale grey	#EFEFED	RGBA(239, 239, 237, 1)	White
+grey		#A5A4A4	RGBA(165, 164, 164, 1)	Gray Chateau
+dark grey	#545452	RGBA(84, 84, 82, 1)	Dark Gray
+semi black	#222222	RGBA(34, 34, 34, 1)	Black

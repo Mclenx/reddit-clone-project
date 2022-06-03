@@ -1,0 +1,33 @@
+Project Plan for MiniRedditApp
+
+This project will consist of multiple lessons learned on codecademy. 
+-The application will majority be built on React and Redux. 
+-Version control with Git and host repository on Github
+-Use project management tools like Github
+-Create a README.md using markdown
+- ability to use app on ANY browser(PC or mobile)
+- can search data using terms
+-User are shown a detailed view (modal or newpage/route)
+- get a +90 score on lighthouse
+
+Prerequisites:
+HTML
+CSS
+JavaScript
+React
+Redux
+Jest, Enzyme, and Selenium
+Git and GitHub
+Command line and file navigation
+Wireframing
+
+Things I will have to review:
+React & Redux
+Markdown
+Jest,Enzyme and Selenium
+APIs
+HTML CSS
+
+Example from codecademy:
+
+https://reddit-client.netlify.app/
